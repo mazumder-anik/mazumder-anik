@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anik Mazumder
 - 👀 I’m interested in - Coding in different languages.
-- 🌱 I’m currently learning - Java
+- 🌱 I’m currently learning - Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - simply contact me through mail.
 
