@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anik Mazumder
-- 👀 I’m interested in - Coding in different languages.
-- 🌱 I’m currently learning - Python 
+- 👀 I’m interested in - Software Development 
+- 🌱 I’m currently learning DSA in - JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - simply contact me through mail.
 
